@@ -1,8 +1,8 @@
 # Traffic-Sign-Image-Recognition
 
-- Student 1: Minh Hoang Nguyen - s3712611
+- Student 1: Minh Hoang Nguyen
 
-- Student 2: Ngoc Bao Vy Le -  s3828276
+- Student 2: Ngoc Bao Vy Le
 
 Notebook "Traffic_Sign_Image_Recognition.ipynb" is requried to be run on Google Colab as the code was designed to work on this specific platform (can also be run on local machine but need to alter the folder path).
 
